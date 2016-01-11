@@ -1,0 +1,3 @@
+#pattern  filter=crypt diff=crypt
+zsh/.zshrc filter=crypt diff=crypt
+emacs/.spacemacs filter=crypt diff=crypt

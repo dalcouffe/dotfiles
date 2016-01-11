@@ -13,3 +13,4 @@ EXTRA_DIR="$HOME/.extra"
 # Bunch of symlinks
 
 ln -sfv "$DOTFILES_DIR/emacs/.spacemacs" ~
+ln -sfv "$DOTFILES_DIR/zsh/.zshrc" ~
