@@ -14,3 +14,4 @@ EXTRA_DIR="$HOME/.extra"
 
 ln -sfv "$DOTFILES_DIR/emacs/.spacemacs" ~
 ln -sfv "$DOTFILES_DIR/zsh/.zshrc" ~
+ln -sfv "$DOTFILES_DIR/tmux/.tmux.conf" ~
