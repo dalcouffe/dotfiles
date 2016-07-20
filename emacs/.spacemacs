@@ -1,332 +1,318 @@
-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
+;; -*- mode: emacs-lisp -*-
+;; This file is loaded by Spacemacs at startup.
+;; It must be stored in your home directory.
+
+(defun dotspacemacs/layers ()
+  "Configuration Layers declaration.
+You should not put any user code in this function besides modifying the variable
+values."
+  (setq-default
+   ;; Base distribution to use. This is a layer contained in the directory
+   ;; `+distribution'. For now available distributions are `spacemacs-base'
+   ;; or `spacemacs'. (default 'spacemacs)
+   dotspacemacs-distribution 'spacemacs
+   ;; List of additional paths where to look for configuration layers.
+   ;; Paths must have a trailing slash (i.e. `~/.mycontribs/')
+   dotspacemacs-configuration-layer-path '()
+   ;; List of configuration layers to load. If it is the symbol `all' instead
+   ;; of a list then all discovered layers will be installed.
+   dotspacemacs-configuration-layers
+   '(
+     go
+     javascript
+     ;; ----------------------------------------------------------------
+     ;; Example of useful layers you may want to use right away.
+     ;; Uncomment some layer names and press <SPC f e R> (Vim style) or
+     ;; <M-m f e R> (Emacs style) to install them.
+     ;; ----------------------------------------------------------------
+     auto-completion
+     better-defaults
+     emacs-lisp
+     git
+     github
+     markdown
+     org
+     (shell :variables
+             shell-default-height 30
+             shell-default-position 'bottom)
+     ;; spell-checking
+     syntax-checking
+     version-control
+     docker
+     ansible
+     restclient
+     shell-scripts
+     ruby
+     python
+     eyebrowse
+     osx
+     java
+     themes-megapack
+     yaml
+     tmux
+     )
+   ;; List of additional packages that will be installed without being
+   ;; wrapped in a layer. If you need some configuration for these
+   ;; packages, then consider creating a layer. You can also put the
+   ;; configuration in `dotspacemacs/user-config'.
+   dotspacemacs-additional-packages '(
+                                      groovy-mode
+                                      )
+   ;; A list of packages and/or extensions that will not be install and loaded.
+   dotspacemacs-excluded-packages '()
+   ;; If non-nil spacemacs will delete any orphan packages, i.e. packages that
+   ;; are declared in a layer which is not a member of
+   ;; the list `dotspacemacs-configuration-layers'. (default t)
+   dotspacemacs-delete-orphan-packages t))
+
+(defun dotspacemacs/init ()
+  "Initialization function.
+This function is called at the very startup of Spacemacs initialization
+before layers configuration.
+You should not put any user code in there besides modifying the variable
+values."
+  ;; This setq-default sexp is an exhaustive list of all the supported
+  ;; spacemacs settings.
+  (setq-default
+   ;; If non nil ELPA repositories are contacted via HTTPS whenever it's
+   ;; possible. Set it to nil if you have no way to use HTTPS in your
+   ;; environment, otherwise it is strongly recommended to let it set to t.
+   ;; This variable has no effect if Emacs is launched with the parameter
+   ;; `--insecure' which forces the value of this variable to nil.
+   ;; (default t)
+   dotspacemacs-elpa-https t
+   ;; Maximum allowed time in seconds to contact an ELPA repository.
+   dotspacemacs-elpa-timeout 5
+   ;; If non nil then spacemacs will check for updates at startup
+   ;; when the current branch is not `develop'. (default t)
+   dotspacemacs-check-for-update t
+   ;; One of `vim', `emacs' or `hybrid'. Evil is always enabled but if the
+   ;; variable is `emacs' then the `holy-mode' is enabled at startup. `hybrid'
+   ;; uses emacs key bindings for vim's insert mode, but otherwise leaves evil
+   ;; unchanged. (default 'vim)
+   dotspacemacs-editing-style 'vim
+   ;; If non nil output loading progress in `*Messages*' buffer. (default nil)
+   dotspacemacs-verbose-loading nil
+   ;; Specify the startup banner. Default value is `official', it displays
+   ;; the official spacemacs logo. An integer value is the index of text
+   ;; banner, `random' chooses a random text banner in `core/banners'
+   ;; directory. A string value must be a path to an image format supported
+   ;; by your Emacs build.
+   ;; If the value is nil then no banner is displayed. (default 'official)
+   dotspacemacs-startup-banner 'official
+   ;; List of items to show in the startup buffer. If nil it is disabled.
+   ;; Possible values are: `recents' `bookmarks' `projects'.
+   ;; (default '(recents projects))
+   dotspacemacs-startup-lists '(recents projects)
+   ;; Number of recent files to show in the startup buffer. Ignored if
+   ;; `dotspacemacs-startup-lists' doesn't include `recents'. (default 5)
+   dotspacemacs-startup-recent-list-size 5
+   ;; List of themes, the first of the list is loaded when spacemacs starts.
+   ;; Press <SPC> T n to cycle to the next theme in the list (works great
+   ;; with 2 themes variants, one dark and one light)
+   dotspacemacs-themes '(monokai
+                         solarized-dark
+                         spacemacs-dark
+                         spacemacs-light
+                         solarized-light
+                         leuven
+                         zenburn)
+   ;; If non nil the cursor color matches the state color in GUI Emacs.
+   dotspacemacs-colorize-cursor-according-to-state t
+   ;; Default font. `powerline-scale' allows to quickly tweak the mode-line
+   ;; size to make separators look not too crappy.
+   dotspacemacs-default-font '("Source Code Pro"
+                               :size 13
+                               :weight normal
+                               :width normal
+                               :powerline-scale 1.1)
+   ;; The leader key
+   dotspacemacs-leader-key "SPC"
+   ;; The leader key accessible in `emacs state' and `insert state'
+   ;; (default "M-m")
+   dotspacemacs-emacs-leader-key "M-m"
+   ;; Major mode leader key is a shortcut key which is the equivalent of
+   ;; pressing `<leader> m`. Set it to `nil` to disable it. (default ",")
+   dotspacemacs-major-mode-leader-key ","
+   ;; Major mode leader key accessible in `emacs state' and `insert state'.
+   ;; (default "C-M-m)
+   dotspacemacs-major-mode-emacs-leader-key "C-M-m"
+   ;; These variables control whether separate commands are bound in the GUI to
+   ;; the key pairs C-i, TAB and C-m, RET.
+   ;; Setting it to a non-nil value, allows for separate commands under <C-i>
+   ;; and TAB or <C-m> and RET.
+   ;; In the terminal, these pairs are generally indistinguishable, so this only
+   ;; works in the GUI. (default nil)
+   dotspacemacs-distinguish-gui-tab nil
+   ;; (Not implemented) dotspacemacs-distinguish-gui-ret nil
+   ;; The command key used for Evil commands (ex-commands) and
+   ;; Emacs commands (M-x).
+   ;; By default the command key is `:' so ex-commands are executed like in Vim
+   ;; with `:' and Emacs commands are executed with `<leader> :'.
+   dotspacemacs-command-key ":"
+   ;; If non nil `Y' is remapped to `y$'. (default t)
+   dotspacemacs-remap-Y-to-y$ t
+   ;; Name of the default layout (default "Default")
+   dotspacemacs-default-layout-name "Default"
+   ;; If non nil the default layout name is displayed in the mode-line.
+   ;; (default nil)
+   dotspacemacs-display-default-layout nil
+   ;; If non nil then the last auto saved layouts are resume automatically upon
+   ;; start. (default nil)
+   dotspacemacs-auto-resume-layouts nil
+   ;; Location where to auto-save files. Possible values are `original' to
+   ;; auto-save the file in-place, `cache' to auto-save the file to another
+   ;; file stored in the cache directory and `nil' to disable auto-saving.
+   ;; (default 'cache)
+   dotspacemacs-auto-save-file-location 'original
+   ;; Maximum number of rollback slots to keep in the cache. (default 5)
+   dotspacemacs-max-rollback-slots 5
+   ;; If non nil then `ido' replaces `helm' for some commands. For now only
+   ;; `find-files' (SPC f f), `find-spacemacs-file' (SPC f e s), and
+   ;; `find-contrib-file' (SPC f e c) are replaced. (default nil)
+   dotspacemacs-use-ido nil
+   ;; If non nil, `helm' will try to minimize the space it uses. (default nil)
+   dotspacemacs-helm-resize nil
+   ;; if non nil, the helm header is hidden when there is only one source.
+   ;; (default nil)
+   dotspacemacs-helm-no-header nil
+   ;; define the position to display `helm', options are `bottom', `top',
+   ;; `left', or `right'. (default 'bottom)
+   dotspacemacs-helm-position 'bottom
+   ;; If non nil the paste micro-state is enabled. When enabled pressing `p`
+   ;; several times cycle between the kill ring content. (default nil)
+   dotspacemacs-enable-paste-micro-state nil
+   ;; Which-key delay in seconds. The which-key buffer is the popup listing
+   ;; the commands bound to the current keystroke sequence. (default 0.4)
+   dotspacemacs-which-key-delay 0.4
+   ;; Which-key frame position. Possible values are `right', `bottom' and
+   ;; `right-then-bottom'. right-then-bottom tries to display the frame to the
+   ;; right; if there is insufficient space it displays it at the bottom.
+   ;; (default 'bottom)
+   dotspacemacs-which-key-position 'bottom
+   ;; If non nil a progress bar is displayed when spacemacs is loading. This
+   ;; may increase the boot time on some systems and emacs builds, set it to
+   ;; nil to boost the loading time. (default t)
+   dotspacemacs-loading-progress-bar t
+   ;; If non nil the frame is fullscreen when Emacs starts up. (default nil)
+   ;; (Emacs 24.4+ only)
+   dotspacemacs-fullscreen-at-startup t
+   ;; If non nil `spacemacs/toggle-fullscreen' will not use native fullscreen.
+   ;; Use to disable fullscreen animations in OSX. (default nil)
+   dotspacemacs-fullscreen-use-non-native nil
+   ;; If non nil the frame is maximized when Emacs starts up.
+   ;; Takes effect only if `dotspacemacs-fullscreen-at-startup' is nil.
+   ;; (default nil) (Emacs 24.4+ only)
+   dotspacemacs-maximized-at-startup nil
+   ;; A value from the range (0..100), in increasing opacity, which describes
+   ;; the transparency level of a frame when it's active or selected.
+   ;; Transparency can be toggled through `toggle-transparency'. (default 90)
+   dotspacemacs-active-transparency 90
+   ;; A value from the range (0..100), in increasing opacity, which describes
+   ;; the transparency level of a frame when it's inactive or deselected.
+   ;; Transparency can be toggled through `toggle-transparency'. (default 90)
+   dotspacemacs-inactive-transparency 90
+   ;; If non nil unicode symbols are displayed in the mode line. (default t)
+   dotspacemacs-mode-line-unicode-symbols nil
+   ;; If non nil smooth scrolling (native-scrolling) is enabled. Smooth
+   ;; scrolling overrides the default behavior of Emacs which recenters the
+   ;; point when it reaches the top or bottom of the screen. (default t)
+   dotspacemacs-smooth-scrolling t
+   ;; If non nil line numbers are turned on in all `prog-mode' and `text-mode'
+   ;; derivatives. If set to `relative', also turns on relative line numbers.
+   ;; (default nil)
+   dotspacemacs-line-numbers t
+   ;; If non-nil smartparens-strict-mode will be enabled in programming modes.
+   ;; (default nil)
+   dotspacemacs-smartparens-strict-mode nil
+   ;; Select a scope to highlight delimiters. Possible values are `any',
+   ;; `current', `all' or `nil'. Default is `all' (highlight any scope and
+   ;; emphasis the current one). (default 'all)
+   dotspacemacs-highlight-delimiters 'all
+   ;; If non nil advises quit functions to keep server open when quitting.
+   ;; (default nil)
+   dotspacemacs-persistent-server nil
+   ;; List of search tool executable names. Spacemacs uses the first installed
+   ;; tool of the list. Supported tools are `ag', `pt', `ack' and `grep'.
+   ;; (default '("ag" "pt" "ack" "grep"))
+   dotspacemacs-search-tools '("ag" "pt" "ack" "grep")
+   ;; The default package repository used if no explicit repository has been
+   ;; specified with an installed package.
+   ;; Not used for now. (default nil)
+   dotspacemacs-default-package-repository nil
+   ;; Delete whitespace while saving buffer. Possible values are `all'
+   ;; to aggressively delete empty line and long sequences of whitespace,
+   ;; `trailing' to delete only the whitespace at end of lines, `changed'to
+   ;; delete only whitespace for changed lines or `nil' to disable cleanup.
+   ;; (default nil)
+   dotspacemacs-whitespace-cleanup nil
+   ))
+
+(defun dotspacemacs/user-init ()
+  "Initialization function for user code.
+It is called immediately after `dotspacemacs/init'.  You are free to put almost
+any user code here.  The exception is org related code, which should be placed
+in `dotspacemacs/user-config'."
+  ;; (autoload 'groovy-mode "groovy-mode" "Groovy editing mode." t)
+  ;; (add-to-list 'auto-mode-alist '("\.groovy$" . groovy-mode))
+  ;; (add-to-list 'interpreter-mode-alist '("groovy" . groovy-mode))
+  )
+
+(defun dotspacemacs/user-config ()
+  "Configuration function for user code.
+This function is called at the very end of Spacemacs initialization after
+layers configuration. You are free to put any user code."
+    (setq go-tab-width 4)
+    (setq helm-echo-input-in-header-line nil)
+    (setq mac-system-move-file-to-trash-use-finder nil)
+    (setq anaconda-mode-server-script "/usr/local/lib/python2.7/site-packages/anaconda_mode.py")
+
+    ;; (setq eclim-eclipse-dirs "~/Applications/Eclipse.app/Contents/Eclipse"
+    ;;       eclim-executable "~/Applications/Eclipse.app/Contents/Eclipse/eclim")
+
+    (defun toggle-maximize-buffer () "Maximize buffer"
+           (interactive)
+           (if (= 1 (length (window-list)))
+               (jump-to-register '_)
+             (progn
+               (window-configuration-to-register '_)
+                     (delete-other-windows))))
+
+    (defun zerok/setup-gb-gopath ()
+      (interactive)
+      (make-local-variable 'process-environment)
+      (let ((srcPath (_zerok/get-gb-src-folder buffer-file-name)))
+        (when srcPath
+          (let* ((projectPath (string-remove-suffix "/" (file-name-directory srcPath)))
+                 (vendorPath (string-remove-suffix "/" (concat projectPath "/vendor")))
+                 (gopath (concat vendorPath ":" projectPath)))
+            (message "Updating GOPATH to %s" gopath)
+            (setenv "GOPATH" gopath)))))
+    (add-hook 'go-mode-hook 'zerok/setup-gb-gopath)
+
+    (defun _zerok/get-gb-src-folder (path)
+      (let ((parent (directory-file-name (file-name-directory path)))
+            (basename (file-name-nondirectory path)))
+        (cond ((equal "src" basename)
+               (string-remove-suffix "/" path))
+              ((equal "/" parent)
+               nil)
+              (t
+               (_zerok/get-gb-src-folder parent)))))
+  )
+
+;; Do not write anything past this comment. This is where Emacs will
+;; auto-generate custom variable definitions.
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(company-tooltip-common ((t (:inherit company-tooltip :weight bold :underline nil))))
+ '(company-tooltip-common-selection ((t (:inherit company-tooltip-selection :weight bold :underline nil)))))

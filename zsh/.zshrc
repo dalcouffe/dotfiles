@@ -1,71 +1,69 @@
-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
+# Path to your oh-my-zsh configuration.
+ZSH=$HOME/.oh-my-zsh
+
+# zshrc_local is for local settings. Should look something like this:
+# CODE_HOME_DIR=${HOME}/code
+# POWERLINE_BASE=/usr/local/lib/python2.7
+# ZSH_CUSTOM=${CODE_HOME_DIR}/oh-my-zsh-custom
+# DOCKER_ANSIBLE_HOME=${CODE_HOME_DIR}/docker-ansible
+# export PROJECT_ROOT=${CODE_HOME_DIR}/cba-deploy
+source ~/.zshrc_local
+
+# Set name of the theme to load.
+# Look in ~/.oh-my-zsh/themes/
+# Optionally, if you set this to "random", it'll load a random theme each
+# time that oh-my-zsh is loaded.
+#ZSH_THEME="git-taculous"
+ZSH_THEME="robbyrussell"
+
+# Example aliases
+# alias zshconfig="mate ~/.zshrc"
+# alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# Set to this to use case-sensitive completion
+# CASE_SENSITIVE="true"
+
+# Comment this out to disable bi-weekly auto-update checks
+# DISABLE_AUTO_UPDATE="true"
+
+# Uncomment to change how many often would you like to wait before auto-updates occur? (in days)
+# export UPDATE_ZSH_DAYS=13
+
+# Uncomment following line if you want to disable colors in ls
+# DISABLE_LS_COLORS="true"
+
+# Uncomment following line if you want to disable autosetting terminal title.
+# DISABLE_AUTO_TITLE="true"
+
+# Uncomment following line if you want red dots to be displayed while waiting for completion
+# COMPLETION_WAITING_DOTS="true"
+
+# Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
+# Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
+# Example format: plugins=(rails git textmate ruby lighthouse)
+#plugins=(vi-mode alm bundler git java6)
+plugins=(bundler git alm appsdk docker docker-compose docker-local)
+
+source $ZSH/oh-my-zsh.sh
+unsetopt correct_all
+
+# Customize to your needs...
+alias la='ls -ap'
+alias l='ls -lap'
+alias v=vim
+alias up='cd ..'
+alias du='du -h'
+alias df='df -h'
+alias dkmc='docker kill `docker ps -q`'
+alias sm='emacs -nw'
+alias gs='git status'
+export GRADLE_OPTS="-Xmx2G"
+export EDITOR=vim
+export POWERLINE_HOME=$POWERLINE_BASE/site-packages/powerline
+unset GREP_OPTIONS
+eval "$(hub alias -s)"
+unalias gb
+
+#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
+# export SDKMAN_DIR="/Users/doug.alcouffe/.sdkman"
+# [[ -s "/Users/doug.alcouffe/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/doug.alcouffe/.sdkman/bin/sdkman-init.sh"
