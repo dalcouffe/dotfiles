@@ -59,9 +59,8 @@ alias sm='emacs -nw'
 alias gs='git status'
 export GRADLE_OPTS="-Xmx2G"
 export EDITOR=vim
-export POWERLINE_HOME=$POWERLINE_BASE/site-packages/powerline
+export POWERLINE_HOME=$POWERLINE_BASE/powerline
 unset GREP_OPTIONS
-eval "$(hub alias -s)"
 unalias gb
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
