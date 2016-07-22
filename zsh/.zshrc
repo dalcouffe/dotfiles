@@ -64,5 +64,5 @@ unset GREP_OPTIONS
 unalias gb
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
-# export SDKMAN_DIR="/Users/doug.alcouffe/.sdkman"
-# [[ -s "/Users/doug.alcouffe/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/doug.alcouffe/.sdkman/bin/sdkman-init.sh"
+# export SDKMAN_DIR="${HOME}/.sdkman"
+[[ -s "${HOME}/.sdkman/bin/sdkman-init.sh" ]] && source "${HOME}/.sdkman/bin/sdkman-init.sh"
