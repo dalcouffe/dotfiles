@@ -14,7 +14,7 @@ source ~/.zshrc_local
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
 #ZSH_THEME="git-taculous"
-ZSH_THEME="robbyrussell"
+ZSH_THEME="jreese"
 
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
