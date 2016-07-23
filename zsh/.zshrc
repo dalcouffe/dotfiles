@@ -58,6 +58,7 @@ docker_dev() {
     docker_run \
         -v $HOME/code:/home/docker/code \
         -v $HOME/docker/emacs.cache:/home/docker/.emacs.d/.cache \
+        -v $HOME/.git-credential-cache/socket:/home/docker/.git-credential-cache/socket \
         -e GITHUB_USER=${GITHUB_USER} \
         -e GITHUB_EMAIL=${GITHUB_EMAIL} \
         -e SKIP_PULL=${SKIP_PULL} \
