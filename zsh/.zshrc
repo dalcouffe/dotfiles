@@ -6,6 +6,7 @@ ZSH=$HOME/.oh-my-zsh
 # POWERLINE_BASE=/usr/local/lib/python2.7
 # ZSH_CUSTOM=${CODE_HOME_DIR}/oh-my-zsh-custom
 #ZSH_THEME="gianu"
+
 ZSH_THEME="jreese"
 
 source ~/.zshrc_local
