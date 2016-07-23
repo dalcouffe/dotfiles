@@ -64,6 +64,7 @@ docker_dev() {
         -v $HOME/docker/emacs.cache:/home/docker/.emacs.d/.cache \
         -e GITHUB_USER=${GITHUB_USER} \
         -e GITHUB_EMAIL=${GITHUB_EMAIL} \
+        -e SKIP_PULL=${SKIP_PULL} \
         -h dev $1
 }
 
