@@ -53,6 +53,7 @@ alias df='df -h'
 alias dkmc='docker kill `docker ps -q`'
 alias sm='emacs -nw'
 alias gs='git status'
+alias sm="docker_run -v $HOME/code:/home/docker/code -v $HOME/docker/emacs.cache:/home/docker/.emacs.d/.cache -h dev spacemacs"
 export GRADLE_OPTS="-Xmx2G"
 export EDITOR=vim
 export POWERLINE_HOME=$POWERLINE_BASE/powerline
