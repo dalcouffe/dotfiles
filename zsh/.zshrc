@@ -5,7 +5,6 @@ ZSH=$HOME/.oh-my-zsh
 # CODE_HOME_DIR=${HOME}/code
 # POWERLINE_BASE=/usr/local/lib/python2.7
 # ZSH_CUSTOM=${CODE_HOME_DIR}/oh-my-zsh-custom
-# DOCKER_ANSIBLE_HOME=${CODE_HOME_DIR}/docker-ansible
 #ZSH_THEME="gianu"
 ZSH_THEME="jreese"
 
@@ -35,8 +34,6 @@ source ~/.zshrc_local
 
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
-# Example format: plugins=(rails git textmate ruby lighthouse)
-#plugins=(vi-mode alm bundler git java6)
 plugins=(git docker docker-compose docker-local)
 
 source $ZSH/oh-my-zsh.sh
