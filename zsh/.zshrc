@@ -61,6 +61,7 @@ docker_dev() {
         -v $HOME/docker/emacs.cache:/home/docker/.emacs.d/.cache \
         -v $HOME/.ssh/id_rsa:/home/docker/.ssh/id_rsa \
         -v $HOME/.ssh/config:/home/docker/.ssh/config \
+        -v /var/run/docker.sock:/var/run/docker.sock \
         -e GITHUB_USER=${GITHUB_USER} \
         -e GITHUB_EMAIL=${GITHUB_EMAIL} \
         -e SKIP_PULL=${SKIP_PULL} \
