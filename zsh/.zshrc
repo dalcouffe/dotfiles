@@ -38,7 +38,7 @@ source ~/.zshrc_local
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 #plugins=(vi-mode alm bundler git java6)
-plugins=(bundler git alm appsdk docker docker-compose docker-local)
+plugins=(git docker docker-compose docker-local)
 
 source $ZSH/oh-my-zsh.sh
 unsetopt correct_all
@@ -51,14 +51,24 @@ alias up='cd ..'
 alias du='du -h'
 alias df='df -h'
 alias dkmc='docker kill `docker ps -q`'
-alias sm='emacs -nw'
 alias gs='git status'
-alias sm="docker_run -v $HOME/code:/home/docker/code -v $HOME/docker/emacs.cache:/home/docker/.emacs.d/.cache -h dev spacemacs"
 export GRADLE_OPTS="-Xmx2G"
 export EDITOR=vim
 export POWERLINE_HOME=$POWERLINE_BASE/powerline
 unset GREP_OPTIONS
 unalias gb
+
+docker_dev() {
+    docker_run \
+        -v $HOME/code:/home/docker/code \
+        -v $HOME/docker/emacs.cache:/home/docker/.emacs.d/.cache \
+        -e GITHUB_USER=${GITHUB_USER} \
+        -e GITHUB_EMAIL=${GITHUB_EMAIL} \
+        -h dev $1
+}
+
+sm() docker_dev spacemacs
+java_dev() docker_dev eclipse
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 # export SDKMAN_DIR="${HOME}/.sdkman"
