@@ -7,14 +7,10 @@ ZSH=$HOME/.oh-my-zsh
 # ZSH_CUSTOM=${CODE_HOME_DIR}/oh-my-zsh-custom
 # DOCKER_ANSIBLE_HOME=${CODE_HOME_DIR}/docker-ansible
 # export PROJECT_ROOT=${CODE_HOME_DIR}/cba-deploy
-source ~/.zshrc_local
+#ZSH_THEME="gianu"
+ZSH_THEME="jreese"
 
-# Set name of the theme to load.
-# Look in ~/.oh-my-zsh/themes/
-# Optionally, if you set this to "random", it'll load a random theme each
-# time that oh-my-zsh is loaded.
-#ZSH_THEME="git-taculous"
-ZSH_THEME="agnoster"
+source ~/.zshrc_local
 
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
