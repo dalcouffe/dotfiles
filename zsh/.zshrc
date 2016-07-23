@@ -11,6 +11,7 @@ ZSH_THEME="jreese"
 
 source ~/.zshrc_local
 
+
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
