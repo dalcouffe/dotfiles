@@ -57,6 +57,7 @@ unalias gb
 
 docker_dev() {
     docker_user_home=/home/docker.dev
+    docker_repo_base=daspoonman
 
     docker_run \
         -v $HOME/code:${docker_user_home}/code \
@@ -67,11 +68,11 @@ docker_dev() {
         -e GITHUB_USER=${GITHUB_USER} \
         -e GITHUB_EMAIL=${GITHUB_EMAIL} \
         -e SKIP_PULL=${SKIP_PULL} \
-        -h dev $1
+        -h dev ${docker_repo_base}/${1}
 }
 
 sm() docker_dev spacemacs
-java_dev() docker_dev eclipse
+java_dev() docker_dev java
 golang() docker_dev golang-dev
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
