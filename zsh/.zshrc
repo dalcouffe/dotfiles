@@ -56,11 +56,13 @@ unset GREP_OPTIONS
 unalias gb
 
 docker_dev() {
+    docker_user_home=/home/docker.dev
+
     docker_run \
-        -v $HOME/code:/home/docker/code \
-        -v $HOME/docker/emacs.cache:/home/docker/.emacs.d/.cache \
-        -v $HOME/.ssh/id_rsa:/home/docker/.ssh/id_rsa \
-        -v $HOME/.ssh/config:/home/docker/.ssh/config \
+        -v $HOME/code:${docker_user_home}/code \
+        -v $HOME/docker/emacs.cache:${docker_user_home}/.emacs.d/.cache \
+        -v $HOME/.ssh/id_rsa:${docker_user_home}/.ssh/id_rsa \
+        -v $HOME/.ssh/config:${docker_user_home}/.ssh/config \
         -v /var/run/docker.sock:/var/run/docker.sock \
         -e GITHUB_USER=${GITHUB_USER} \
         -e GITHUB_EMAIL=${GITHUB_EMAIL} \
