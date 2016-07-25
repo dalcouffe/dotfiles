@@ -60,10 +60,11 @@ docker_dev() {
     docker_repo_base=daspoonman
 
     docker_run \
-        -v $HOME/code:${docker_user_home}/code \
-        -v $HOME/docker/emacs.cache:${docker_user_home}/.emacs.d/.cache \
-        -v $HOME/.ssh/id_rsa:${docker_user_home}/.ssh/id_rsa \
-        -v $HOME/.ssh/config:${docker_user_home}/.ssh/config \
+        -v ${HOME}/code:${docker_user_home}/code \
+        -v ${HOME}/docker/emacs.cache:${docker_user_home}/.emacs.d/.cache \
+        -v ${HOME}/.ssh/id_rsa:${docker_user_home}/.ssh/id_rsa \
+        -v ${HOME}/.ssh/config:${docker_user_home}/.ssh/config \
+        -v ${HOME}/.gradle:${docker_user_home}/.gradle \
         -v /var/run/docker.sock:/var/run/docker.sock \
         -e GITHUB_USER=${GITHUB_USER} \
         -e GITHUB_EMAIL=${GITHUB_EMAIL} \
