@@ -267,8 +267,9 @@ layers configuration. You are free to put any user code."
     (setq mac-system-move-file-to-trash-use-finder nil)
     (setq anaconda-mode-server-script "/usr/local/lib/python2.7/site-packages/anaconda_mode.py")
 
-    (setq eclim-eclipse-dirs "/usr/local/etc/eclipse"
-          eclim-executable "/usr/local/etc/eclipse/eclim")
+    (use-package pbcopy
+      :if (not (display-graphic-p))
+      :init (turn-on-pbcopy))
 
     (defun toggle-maximize-buffer () "Maximize buffer"
            (interactive)
