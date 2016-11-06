@@ -300,6 +300,8 @@ layers configuration. You are free to put any user code."
                nil)
               (t
                (_zerok/get-gb-src-folder parent)))))
+
+    (setq interprogram-paste-function nil)
   )
 
 ;; Do not write anything past this comment. This is where Emacs will
