@@ -279,27 +279,7 @@ layers configuration. You are free to put any user code."
                (window-configuration-to-register '_)
                      (delete-other-windows))))
 
-    (defun zerok/setup-gb-gopath ()
-      (interactive)
-      (make-local-variable 'process-environment)
-      (let ((srcPath (_zerok/get-gb-src-folder buffer-file-name)))
-        (when srcPath
-          (let* ((projectPath (string-remove-suffix "/" (file-name-directory srcPath)))
-                 (vendorPath (string-remove-suffix "/" (concat projectPath "/vendor")))
-                 (gopath (concat vendorPath ":" projectPath)))
-            (message "Updating GOPATH to %s" gopath)
-            (setenv "GOPATH" gopath)))))
-    (add-hook 'go-mode-hook 'zerok/setup-gb-gopath)
-
-    (defun _zerok/get-gb-src-folder (path)
-      (let ((parent (directory-file-name (file-name-directory path)))
-            (basename (file-name-nondirectory path)))
-        (cond ((equal "src" basename)
-               (string-remove-suffix "/" path))
-              ((equal "/" parent)
-               nil)
-              (t
-               (_zerok/get-gb-src-folder parent)))))
+    (add-hook 'go-mode-hook 'go-set-project)
 
     (setq interprogram-paste-function nil)
   )
