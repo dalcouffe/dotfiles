@@ -19,7 +19,9 @@ values."
    dotspacemacs-configuration-layers
    '(
      rust
-     go
+     (go :variables
+         go-use-gometalinter t
+         go-tab-width 4)
      javascript
      ;; ----------------------------------------------------------------
      ;; Example of useful layers you may want to use right away.
@@ -281,8 +283,6 @@ layers configuration. You are free to put any user code."
                      (delete-other-windows))))
 
     ;; (add-hook 'go-mode-hook 'go-set-project)
-    (go :variables go-use-gometalinter t)
-    (go :variables go-tab-width 4)
 
     (setq interprogram-paste-function nil)
   )
