@@ -18,7 +18,6 @@ values."
    ;; of a list then all discovered layers will be installed.
    dotspacemacs-configuration-layers
    '(
-     rust
      (go :variables
          ;; go-use-gometalinter t
          go-tab-width 4)
