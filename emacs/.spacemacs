@@ -22,6 +22,7 @@ values."
          ;; go-use-gometalinter t
          go-tab-width 4)
      javascript
+     rust
      ;; ----------------------------------------------------------------
      ;; Example of useful layers you may want to use right away.
      ;; Uncomment some layer names and press <SPC f e R> (Vim style) or
@@ -49,7 +50,7 @@ values."
      ;; eyebrowse
      osx
      java
-     themes-megapack
+     ;; themes-megapack
      yaml
      tmux
      )
