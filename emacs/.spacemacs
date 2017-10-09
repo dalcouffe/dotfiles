@@ -285,5 +285,6 @@ layers configuration. You are free to put any user code."
     ;; (add-hook 'go-mode-hook 'go-set-project)
 
     (setq interprogram-paste-function nil)
+    (require 'helm-bookmark)
   )
 
