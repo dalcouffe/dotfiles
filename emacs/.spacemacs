@@ -19,7 +19,6 @@ values."
    dotspacemacs-configuration-layers
    '(
      (go :variables
-         ;; go-use-gometalinter t
          go-tab-width 4)
      javascript
      rust
