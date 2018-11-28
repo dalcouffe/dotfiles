@@ -268,6 +268,7 @@ layers configuration. You are free to put any user code."
     (setq helm-echo-input-in-header-line nil)
     (setq mac-system-move-file-to-trash-use-finder nil)
     (setq anaconda-mode-server-script "/usr/local/lib/python2.7/site-packages/anaconda_mode.py")
+    (setf company-go-gocode-args '("-source"))
 
     (use-package pbcopy
       :if (not (display-graphic-p))
