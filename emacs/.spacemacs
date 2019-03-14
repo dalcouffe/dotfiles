@@ -18,7 +18,11 @@ values."
    ;; of a list then all discovered layers will be installed.
    dotspacemacs-configuration-layers
    '(
-     (go :variables go-tab-width 4)
+     lsp
+     (go :variables
+         go-tab-width 4
+         go-backend 'lsp
+     )
      javascript
      rust
      ;; ----------------------------------------------------------------
@@ -58,6 +62,7 @@ values."
    ;; configuration in `dotspacemacs/user-config'.
    dotspacemacs-additional-packages '(
                                       groovy-mode
+                                      pbcopy
                                       )
    ;; A list of packages and/or extensions that will not be install and loaded.
    dotspacemacs-excluded-packages '()
@@ -267,7 +272,6 @@ layers configuration. You are free to put any user code."
     (setq helm-echo-input-in-header-line nil)
     (setq mac-system-move-file-to-trash-use-finder nil)
     (setq anaconda-mode-server-script "/usr/local/lib/python2.7/site-packages/anaconda_mode.py")
-    (setf company-go-gocode-args '("-fallback-to-source" "-cache"))
 
     (use-package pbcopy
       :if (not (display-graphic-p))
@@ -281,9 +285,9 @@ layers configuration. You are free to put any user code."
                (window-configuration-to-register '_)
                      (delete-other-windows))))
 
-    ;; (add-hook 'go-mode-hook 'go-set-project)
-
     (setq interprogram-paste-function nil)
     (require 'helm-bookmark)
+    (defcustom lsp-clients-go-server "gopls"
+      "The go language server executable to use.")
   )
 
