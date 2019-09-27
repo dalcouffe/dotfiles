@@ -289,6 +289,7 @@ layers configuration. You are free to put any user code."
 
     (setq interprogram-paste-function nil)
     (require 'helm-bookmark)
+    (setq magit-refresh-status-buffer nil)
     ;; (defcustom lsp-clients-go-server "gopls"
     ;;   "The go language server executable to use.")
   )
