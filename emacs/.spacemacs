@@ -23,6 +23,7 @@ values."
          go-tab-width 4
          go-backend 'lsp
          go-use-test-args "-mod=vendor -race -timeout 30s"
+         go-use-testify-for-testing t
          godoc-at-point-function 'godoc-gogetdoc
      )
      javascript
