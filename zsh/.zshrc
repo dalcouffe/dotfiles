@@ -47,7 +47,6 @@ alias v=vim
 alias up='cd ..'
 alias du='du -h'
 alias df='df -h'
-alias dkmc='docker kill `docker ps -q`'
 alias gs='git status'
 export GRADLE_OPTS="-Xmx2G"
 export EDITOR=vim
@@ -55,8 +54,7 @@ export POWERLINE_HOME=$POWERLINE_BASE/powerline
 unset GREP_OPTIONS
 unalias gb
 
-
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 # export SDKMAN_DIR="${HOME}/.sdkman"
-[[ -s "${HOME}/.sdkman/bin/sdkman-init.sh" ]] && source "${HOME}/.sdkman/bin/sdkman-init.sh"
-if [ /Users/doug.alcouffe/code/dev/bin/kubectl ]; then source <(kubectl completion zsh); fi
+# [[ -s "${HOME}/.sdkman/bin/sdkman-init.sh" ]] && source "${HOME}/.sdkman/bin/sdkman-init.sh"
+# if [ /Users/doug.alcouffe/code/dev/bin/kubectl ]; then source <(kubectl completion zsh); fi
