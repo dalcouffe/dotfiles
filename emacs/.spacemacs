@@ -22,7 +22,7 @@ values."
      (go :variables
          go-tab-width 4
          go-backend 'lsp
-         go-use-test-args "-race -timeout 30s"
+         go-use-test-args "-mod=vendor -race -timeout 30s"
          godoc-at-point-function 'godoc-gogetdoc
      )
      javascript
@@ -290,8 +290,6 @@ layers configuration. You are free to put any user code."
     (setq interprogram-paste-function nil)
     (require 'helm-bookmark)
     (setq magit-refresh-status-buffer nil)
-    ;; (defcustom lsp-clients-go-server "gopls"
-    ;;   "The go language server executable to use.")
   )
 
 (defun dotspacemacs/emacs-custom-settings ()
