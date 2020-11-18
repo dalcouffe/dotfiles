@@ -24,9 +24,10 @@ values."
          go-backend 'lsp
          go-use-test-args "-mod=vendor -race -timeout 30s"
          godoc-at-point-function 'godoc-gogetdoc
+         go-use-testify-for-testing t
      )
+     dap
      javascript
-     rust
      ;; ----------------------------------------------------------------
      ;; Example of useful layers you may want to use right away.
      ;; Uncomment some layer names and press <SPC f e R> (Vim style) or
