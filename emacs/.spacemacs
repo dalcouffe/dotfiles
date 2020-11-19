@@ -24,7 +24,7 @@ values."
          go-backend 'lsp
          go-use-test-args "-mod=vendor -race -timeout 30s"
          godoc-at-point-function 'godoc-gogetdoc
-         go-use-testify-for-testing t
+         ;; go-use-testify-for-testing t
      )
      dap
      javascript
