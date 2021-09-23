@@ -9,7 +9,7 @@ ZSH=$HOME/.oh-my-zsh
 
 ZSH_THEME="jreese"
 
-source ~/.zshrc_local
+if [ -f ~/.zshrc_local ]; then source ~/.zshrc_local; fi
 
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
@@ -35,7 +35,7 @@ source ~/.zshrc_local
 
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
-plugins=(git docker docker-compose docker-local dev-env)
+plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
 unsetopt correct_all
@@ -53,6 +53,8 @@ export EDITOR=vim
 export POWERLINE_HOME=$POWERLINE_BASE/powerline
 unset GREP_OPTIONS
 unalias gb
+
+source ~/.zshrc_local_post
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 # export SDKMAN_DIR="${HOME}/.sdkman"
