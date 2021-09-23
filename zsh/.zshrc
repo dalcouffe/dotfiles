@@ -9,7 +9,7 @@ ZSH=$HOME/.oh-my-zsh
 
 ZSH_THEME="jreese"
 
-if [ -f ~/.zshrc_local ]; then source ~/.zshrc_local; fi
+[ -f ~/.zshrc_local ] && source ~/.zshrc_local
 
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
@@ -54,7 +54,7 @@ export POWERLINE_HOME=$POWERLINE_BASE/powerline
 unset GREP_OPTIONS
 unalias gb
 
-source ~/.zshrc_local_post
+[ -f ~/.zshrc_local_post ] && source ~/.zshrc_local_post
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 # export SDKMAN_DIR="${HOME}/.sdkman"
