@@ -22,7 +22,7 @@ values."
      (go :variables
          go-tab-width 4
          go-backend 'lsp
-         go-use-test-args "-mod=vendor -race -timeout 30s"
+         go-use-test-args "-race -timeout 30s"
          godoc-at-point-function 'godoc-gogetdoc
          ;; go-use-testify-for-testing t
      )
