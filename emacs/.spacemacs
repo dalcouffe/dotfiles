@@ -27,6 +27,7 @@ values."
          ;; go-use-testify-for-testing t
      )
      dap
+     kubernetes
      javascript
      ;; ----------------------------------------------------------------
      ;; Example of useful layers you may want to use right away.
